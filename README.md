@@ -1,6 +1,6 @@
 # Wolt Delivery Fee Calculator
 Wolt delivery fee calculator is an application that calculates the delivery fee based on user input.
-It was created as a pre-assignment to Wolt's summer 2022 internship application.
+It was created as a [pre-assignment](https://github.com/woltapp/engineering-summer-intern-2022) for Wolt's summer 2022 internship application.
 
 ## How to run
 
