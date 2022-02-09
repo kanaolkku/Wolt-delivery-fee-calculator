@@ -1,0 +1,29 @@
+.result-container p {
+  font-size: 1.45rem !important;
+}
+.success p {
+  color: black !important;
+}
+
+.success span {
+  font-size: 1.6rem;
+  background-color: rgba(221, 221, 221, 0.514);
+  padding: 5px;
+  padding-bottom: 7px;
+  border-radius: 5px;
+}
+
+.error {
+  background-color: rgb(223, 49, 57);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border-radius: 10px;
+  width: 95%;
+  height: 100px;
+}
+.error p {
+  color: rgb(255, 255, 255) !important;
+  padding: 6px;
+  font-size: 1.1rem !important;
+}

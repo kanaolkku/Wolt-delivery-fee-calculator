@@ -1,0 +1,29 @@
+input {
+  width: 250px;
+  margin: 5px 0;
+  padding: 0.5rem 2.5rem 0.5rem 0.625rem;
+  border-radius: 2px;
+  border: none;
+  border: 1px solid rgba(32, 33, 37, 0.12);
+}
+
+input:focus {
+  padding: 8px;
+  outline-color: #0078d4;
+  outline-width: 2px;
+}
+
+.invalid {
+  border: 2px solid rgb(218, 0, 0);
+  outline: none;
+}
+
+.error-message {
+  color: rgb(190, 0, 0);
+  font-size: 0.75rem;
+  display: block;
+}
+
+.react-datepicker-wrapper {
+  width: 250px;
+}
